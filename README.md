@@ -1,6 +1,6 @@
 # TestingTechnicalAnalysis
 
-![Header](./TestingTechnicalAnalysis_banner.png)
+![Header](./TestingTechnicalAnalysis_banner.jpg)
 
 ## Project Overview
 This repository contains the code and methodology for testing the predictive power of technical trading rules under different market regimes. The project aligns with the research study:
