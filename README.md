@@ -1,5 +1,7 @@
 # TestingTechnicalAnalysis
 
+![Header](./TestingTechnicalAnalysis_banner.png)
+
 ## Project Overview
 This repository contains the code and methodology for testing the predictive power of technical trading rules under different market regimes. The project aligns with the research study:
 
@@ -41,8 +43,8 @@ Causality and statistical robustness checks: Account for autocorrelation, non-st
    - Randomization tests.
 
 ## Notes
-Strategies are tested across multiple regimes to evaluate predictive power under different market conditions.
+- Strategies are tested across multiple regimes to evaluate predictive power under different market conditions.
 
-Backtesting assumes no transaction costs by default; they can be added for realism.
+- Backtesting assumes no transaction costs by default; they can be added for realism.
 
-Statistical controls ensure results are robust against random noise and market non-stationarity.
+- Statistical controls ensure results are robust against random noise and market non-stationarity.
