@@ -5,7 +5,7 @@
 ## Project Overview
 This repository contains the code and methodology for testing the predictive power of technical trading rules under different market regimes. The project aligns with the research study:
 
-Title: Regime-Dependent Predictive Power of Technical Trading Rules: A Cross-Market, Risk-Adjusted, and Causality-Based Empirical Study
+Title: Evaluating the Risk-Adjusted Profitability of Technical Trading Rules Across Volatility and Macroeconomic Regimes Under Robust Statistical Controls
 Research Question: Do technical trading rules generate risk-adjusted excess returns across volatility and macroeconomic regimes, or are they statistically indistinguishable from random noise once non-stationarity and autocorrelation are controlled?
 
 The project focuses on evaluating whether technical indicators retain predictive value under varying market conditions using walkforward backtesting and rigorous statistical controls.
