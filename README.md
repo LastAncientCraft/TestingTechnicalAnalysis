@@ -10,7 +10,7 @@ The project focuses on evaluating whether technical indicators retain predictive
 ## Features
 Cross-market analysis: Test strategies on multiple asset classes or indices.
 
-Regime classification: Segment the market based on volatility, macroeconomic indicators, or other regimes.
+Regime classification: Segment the market based on volatility and macroeconomic indicators.
 
 Technical rule testing: Apply rules such as moving averages, RSI, MACD, and Bollinger Bands.
 
